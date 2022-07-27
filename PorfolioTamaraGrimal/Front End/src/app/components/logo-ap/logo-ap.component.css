@@ -15,6 +15,7 @@ img{
 }
 .btn{
     border-width: medium;
+    padding-left: 2px;
 }
 
 /*--- Para la vista de celular ---*/

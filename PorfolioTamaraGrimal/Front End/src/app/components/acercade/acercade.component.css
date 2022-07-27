@@ -13,10 +13,10 @@ div{
 @media (min-width: 576px){
     #fotoperfil{
         position: absolute;
-        width: 16%;
-        top: 400px;
+        width: 14%;
+        top: 435px;
         border-radius: 100%;
-        box-shadow: 3px 3px 3px rgb(111, 85, 136);
+        box-shadow: 3px 3px 3px rgb(29, 24, 34);
         left: 1%;
     }
 }
@@ -26,16 +26,17 @@ div{
         width: 30%;
         top: 390px;
         border-radius: 100%;
-        box-shadow: 3px 3px 3px rgb(111, 85, 136);
+        box-shadow: 3px 3px 3px rgb(0, 0, 0);
         left: 34%;
     }
 }
 /*etiqueta nombre*/
 #nombre{
     font-weight: bold;
-    margin-top: 30%;
+    margin-top: 10%;
 } 
 /*etiqueta descripcion*/
 #descripcion{
     font-weight: bold;
 }
+
